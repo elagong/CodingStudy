@@ -8,7 +8,7 @@
 
 내가 멍청한 만큼 많이 써보고 잘 외워보자...
 
-# 1일차
+# 1일차 - 문자열
 
 ### 파이썬은 선녀였다..
 
@@ -20,13 +20,17 @@
 - String이 불변이기 때문에 멀티 쓰레딩 환경에서 안전(thread-safe)하다.
 - Java는 String의 hashcode를 생성 단계에서부터 캐싱한다. (이건 진짜 모르겠음)
 
-#### Buffer 
+#### StringBuilder
 
-- 예외처리를 생활화하자
+- 이걸 모르고 있었다니 죽는게 맞다.
 
 #### StringTokenizer 
 
 - readline()을 입력받은 값을 공백 단위로 구분해, nextToken()을 통해 순서대로 호출할 수 있다.
 - 아니 왜 split() 안쓰지? StringTokenizer가 속도가 더 빠르다...
 
-#### Recursive
+#### Buffer 
+
+- 예외처리를 생활화하자
+
+#### 
