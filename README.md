@@ -28,6 +28,7 @@
 
 - readline()을 입력받은 값을 공백 단위로 구분해, nextToken()을 통해 순서대로 호출할 수 있다.
 - 아니 왜 split() 안쓰지? StringTokenizer가 속도가 더 빠르다...
+- 공백이면 StringTokenizer, 정규식 처리가 필요하면 split() 쓰자.
 
 #### Buffer 
 
