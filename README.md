@@ -56,3 +56,4 @@
         write(String.valueOf(b));
     }
   - 위 처럼 int, long, boolean, float와 같은 모든 type은 최종적으로 String으로 변환된다.
+  - 결론 : 콘솔에 있는 모든 출력문은 String이다.
