@@ -41,7 +41,7 @@
 #### 파이썬은 신이다. (2023-05-27)
 
 ##### [단계별 문제 1회차 (1번~13번)](https://www.acmicpc.net/step/1)
-- BufferedReader / BufferedWriter 잘 쓰기 -> parseInt / String.valueOf.()
+- BufferedReader / BufferedWriter 잘 쓰기 -> parseInt / String.valueOf()
 - 5번 문제 나눗셈) 연산을 할 때, double형은 double형으로 나눠주자. 기본적인 걸 까먹네..
 - 10번 문제 곱셈) 숫자를 수학적으로 접근해서 풀었음.
 
