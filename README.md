@@ -40,9 +40,11 @@
 
 #### 파이썬은 신이다. (2023-05-27)
 
-##### https://www.acmicpc.net/step/1 단계별 문제 1회차 (1번~15번)
+##### 단계별 문제 1회차 (1번~13번) https://www.acmicpc.net/step/1
 - BufferedReader / BufferedWriter 잘 쓰기 -> parseInt / String.valueOf.()
 - 5번 문제 나눗셈) 연산을 할 때, double형은 double형으로 나눠주자. 기본적인 걸 까먹네..
+- 10번 문제 곱셈) 숫자를 수학적으로 접근해서 풀었음.
+
 - BufferedWriter를 통한 bw.write()가 능사가 아님을 깨달았다.. 출력 값이 적을 때는 sout을 쓰자.
 - 갑자기 입출력이 너무 궁금해서 출력 시의 내부로직을 까봤다. 콘솔에 있는 숫자는 과연 int 형일까? 라는 의문과 함께..
   - System 클래스 내의 static 필드 중 out 은 PrintStream 타입의 변수로 선언되어 있다.
@@ -57,3 +59,7 @@
     }
   - 위 처럼 int, long, boolean, float와 같은 모든 type은 최종적으로 String으로 변환된다.
   - 결론 : 콘솔에 있는 모든 출력문은 String이다.
+
+##### 단계별 문제 2회차 (1번~7번) https://www.acmicpc.net/step/4
+- 6번 문제 오븐시계) 단순하게 생각해도 될 건 단순하게의 표본... 너무 알고리즘 분류나 문제 분류에 집착해서 풀지 말 것...
+- Java method 중 Math method를 잘 활용하자.(https://velog.io/@kimmjieun/Java-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%85%EC%B6%9C%EB%A0%A5-%ED%8C%81)
