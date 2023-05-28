@@ -34,4 +34,11 @@
 
 - 예외처리를 생활화하자
 
-#### 
+# 2일차 - 백준 문제풀기
+
+### 파이썬은 신이다.
+
+#### https://www.acmicpc.net/step
+
+- 단계별 문제 1~15번
+- BufferedReader / BufferedWriter 잘 쓰기 -> parseInt / String.valueOf.()
