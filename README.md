@@ -40,7 +40,7 @@
 
 #### 파이썬은 신이다. (2023-05-27)
 
-##### 단계별 문제 1회차 (1번~13번) https://www.acmicpc.net/step/1
+##### [단계별 문제 1회차 (1번~13번)](https://www.acmicpc.net/step/1)
 - BufferedReader / BufferedWriter 잘 쓰기 -> parseInt / String.valueOf.()
 - 5번 문제 나눗셈) 연산을 할 때, double형은 double형으로 나눠주자. 기본적인 걸 까먹네..
 - 10번 문제 곱셈) 숫자를 수학적으로 접근해서 풀었음.
@@ -60,8 +60,10 @@
   - 위 처럼 int, long, boolean, float와 같은 모든 type은 최종적으로 String으로 변환된다.
   - 결론 : 콘솔에 있는 모든 출력문은 String이다.
 
-##### 단계별 문제 2회차 (1번~7번) https://www.acmicpc.net/step/4
+##### [단계별 문제 2회차 (1번~7번)](https://www.acmicpc.net/step/4)
 - 6번 문제 오븐시계) 단순하게 생각해도 될 건 단순하게의 표본... 너무 알고리즘 분류나 문제 분류에 집착해서 풀지 말 것...
 - [Java method 중 Math method를 잘 활용하자.](https://velog.io/@ryusuz/JAVA-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9-%EC%A3%BC%EC%9A%94-%ED%95%A8%EC%88%98-%EB%AA%A8%EC%9D%8C)
+
+##### [단계별 문제 3회차 (1번~12번)](https://www.acmicpc.net/step/3)
 - 쉬운 문제들을 풀면서 BufferedReader, StringTokenizer의 사용법을 알았다. 몇 문제 풀지도 못한 것 같은데 시간이 후딱갔다..
 - 14단계까지 한 후, 누적합, 구현, 그래프, DFS, BFS, 트리순회 등등 공부해야겠다... 늦더라도 천천히...
