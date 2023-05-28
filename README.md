@@ -62,5 +62,4 @@
 
 ##### 단계별 문제 2회차 (1번~7번) https://www.acmicpc.net/step/4
 - 6번 문제 오븐시계) 단순하게 생각해도 될 건 단순하게의 표본... 너무 알고리즘 분류나 문제 분류에 집착해서 풀지 말 것...
-
-Java method 중 Math method를 잘 활용하자.(https://velog.io/@kimmjieun/Java-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%85%EC%B6%9C%EB%A0%A5-%ED%8C%81)
+- [Java method 중 Math method를 잘 활용하자.](https://velog.io/@kimmjieun/Java-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%85%EC%B6%9C%EB%A0%A5-%ED%8C%81)
