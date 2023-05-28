@@ -40,7 +40,21 @@
 
 ### 파이썬은 신이다.
 
-#### https://www.acmicpc.net/step
+#### https://www.acmicpc.net/step/1
 
-- 단계별 문제 1~15번
+- 단계별 문제 1회차 (1번~15번)
 - BufferedReader / BufferedWriter 잘 쓰기 -> parseInt / String.valueOf.()
+- 5번 문제 나눗셈) 연산을 할 때, double형은 double형으로 나눠주자. 기본적인 걸 까먹네..
+<details> 
+ <summary> - 갑자기 입출력이 너무 궁금해서 출력 시의 내부로직을 까봤다. 콘솔에 있는 숫자는 과연 int 형일까? 라는 의문과 함께..</summary>
+  - System 클래스 내의 static 필드 중 out 은 PrintStream 타입의 변수로 선언되어 있다.
+  - ```java 
+    public static final PrintStream out = null; 
+  - 위 처럼 null로 초기화 되어있지만, System.out은 PrintStream의 객체로 설정된다.
+  - PrintStream 객체에는 println() 같은 출력 메서드가 구현되어있다.
+  - ```java 
+    public void print(boolean b) {
+        write(String.valueOf(b));
+    }
+  - 위 처럼 int, long, boolean, float와 같은 모든 type은 최종적으로 String으로 변환된다.
+  </details>
