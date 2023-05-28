@@ -49,7 +49,8 @@
   - System 클래스 내의 static 필드 중 out 은 PrintStream 타입의 변수로 선언되어 있다.
   - ```java 
     public static final PrintStream out = null; 
-  - 위 처럼 null로 초기화 되어있지만, System.out은 PrintStream의 객체로 설정된다.
+  - 위 처럼 null로 초기화 되어있지만, 이는 초기값이다.
+  - Java 가상 머신(JVM)에 의해 실제 실행 시, System.out은 PrintStream 객체로 초기화된다. (이건 잘 모르겠음 ㅎㅎㅋㅋ;;)
   - PrintStream 객체에는 println() 같은 출력 메서드가 구현되어있다.
   - ```java 
     public void print(boolean b) {
