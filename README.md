@@ -40,9 +40,7 @@
 
 #### 파이썬은 신이다. (2023-05-27)
 
-##### https://www.acmicpc.net/step/1
-##### 단계별 문제 1회차 (1번~15번)
-
+##### https://www.acmicpc.net/step/1 단계별 문제 1회차 (1번~15번)
 - BufferedReader / BufferedWriter 잘 쓰기 -> parseInt / String.valueOf.()
 - 5번 문제 나눗셈) 연산을 할 때, double형은 double형으로 나눠주자. 기본적인 걸 까먹네..
 - BufferedWriter를 통한 bw.write()가 능사가 아님을 깨달았다.. 출력 값이 적을 때는 sout을 쓰자.
