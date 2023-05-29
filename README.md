@@ -1,6 +1,6 @@
 ## https://github.com/elagong/AlgorithmStudy
 
-# JavaMethodStudy
+# CodingStudy
 
 2023-05-26 start
 
@@ -69,3 +69,10 @@
 - Scanner 써도 될 것 같으면 걍 쓰자.. 개편하다..
 - 14단계까지 한 후, 누적합, 구현, 그래프, DFS, BFS, 트리순회 등등 공부해야겠다... 늦더라도 천천히...
 - 파이썬으로 도망칠까?
+
+# 3일차 - 파이썬으로.
+
+#### 파이썬은 신이 맞다. (2023-05-28)
+
+##### [Jump to Python](https://wikidocs.net/book/1)
+- 결국 도망쳤다. 파이썬은 너무 편하다. Repository 이름도 바꿔야겠다.
