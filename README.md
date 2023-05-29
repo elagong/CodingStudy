@@ -80,3 +80,5 @@
 
 ##### [Jump to Python](https://wikidocs.net/book/1)
 - 결국 도망쳤다. 파이썬은 너무 편하다. Repository 이름도 바꿔야겠다.
+- Python의 Number, String, List, Tuple, Dictionary, Set, Bool을 공부했다.
+- 예전 암호화 과제 코드가 이렇게 도움을 줄 지 몰랐다. 복습을 한 기분이다.
